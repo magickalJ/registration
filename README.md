@@ -35,8 +35,8 @@ From your Nextcloud instance, click: your profile to the upper right -> Apps -> 
 
 # Donate
 
-Send Ethereum to `0x941613eBB948C2C547cb957B55fEB2609fa6Fe66`
-Send BTC to `33pStaSaf4sDUA8XBAHTq7ZDQpCVFQArxQ`
+Send Ethereum to `0x87b5194207aFa83b8Ff7f80678377E08B2CAe3a2`
+Send BTC to `12AqPmuxgKZiRqNxeYKzmj1qx17iianh2t`
 
 # FAQ
 
